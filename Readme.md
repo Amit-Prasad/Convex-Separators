@@ -1,9 +1,9 @@
 # Convex Separators
-A Convex Separator is defined as an intersection of half-spaces that separates one class from another. We have built a method to learn Convex Separators in a stable way
-Contributors:
-Amit Prasad (https://www.linkedin.com/in/amit-prasad-951081119/)
-Prof. Rahul Garg(https://www.cse.iitd.ac.in/~rahulgarg/)
-Prof. Yogish Sabharwal (https://www.cse.iitd.ac.in/~yogish/HomePage/Home.html)
+A Convex Separator is defined as an intersection of half-spaces that separates one class from another. We have built a method to learn Convex Separators in a stable way. <br />
+Contributors: <br />
+Amit Prasad (https://www.linkedin.com/in/amit-prasad-951081119/) <br />
+Prof. Rahul Garg(https://www.cse.iitd.ac.in/~rahulgarg/) <br />
+Prof. Yogish Sabharwal (https://www.cse.iitd.ac.in/~yogish/HomePage/Home.html) <br />
 
 Following are some synthetic datasets for which the separator is shown in action:
 ![image](https://github.com/Amit-Prasad/Convex-Separators/assets/22973646/dbe04a00-22d9-4c3c-841a-ead28ae36859)
